@@ -1,4 +1,3 @@
-
         // Navega&ccedil;&atilde;o entre p&aacute;ginas
         const navLinks = document.querySelectorAll('.nav-link');
         const pages = document.querySelectorAll('.page');
